@@ -118,10 +118,11 @@
 }
 
 .prvni img {
-  flex-shrink: 0;
-width: 120px;
-  height: auto;
-}
+flex-shrink: 0;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: 20px;
+margin-right: 20px; }
 
 /* Upravit styly pro mobilní zařízení */
 @media (max-width: 600px) {
